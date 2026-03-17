@@ -25,7 +25,7 @@ Before getting into the performativity analysis, here is a look at the raw liste
 #### Top 20 Most Played Artists
 ![Top 20 Most Played Artists](Images/Top%2020%20Most%20Played%20Artists.png)
 
-The most played songs paint a slightly different picture. Frank Ocean's "Nights" sits at 337 plays, followed by BROCKHAMPTON's "COUNT ON ME" and Kendrick Lamar's "Bitch Don't Kill My Vibe - Remix."
+The most played songs paint a slightly different picture. Frank Ocean's "Nights" sits at 337 plays, followed by Mac Miller's "Blue World" and Kendrick Lamar's "PRIDE."
 
 #### Top 20 Most Played Songs
 ![Top 20 Most Played Songs](Images/Top%2020%20Most%20Played%20Songs.png)
