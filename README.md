@@ -19,12 +19,12 @@ This project uses **151,811 personal Last.fm scrobbles** from **August 2021 to M
 Before getting into the performativity analysis, here is a look at the raw listening data. JPEGMAFIA dominates with 7,596 plays, followed by Kanye West at 7,061 and Kendrick Lamar at 3,940. The top 5 artists alone make up 16.9% of all listening.
 
 #### Top 20 Most Played Artists
-![Top 20 Most Played Artists](images/Top%2020%20Most%20Played%20Artists.png)
+![Top 20 Most Played Artists](Images/Top%2020%20Most%20Played%20Artists.png)
 
 The most played songs paint a slightly different picture. Frank Ocean's "Nights" sits at 337 plays, followed by BROCKHAMPTON's "COUNT ON ME" and Kendrick Lamar's "Bitch Don't Kill My Vibe - Remix."
 
 #### Top 20 Most Played Songs
-![Top 20 Most Played Songs](images/Top%2020%20Most%20Played%20Songs.png)
+![Top 20 Most Played Songs](Images/Top%2020%20Most%20Played%20Songs.png)
 
 ## The Performativity Framework
 
@@ -48,48 +48,48 @@ I built an 8-dimension scoring system where each dimension captures a different 
 The Marías top this category at 2,392 plays, followed by Magdalena Bay, Verzache, and FKA twigs. 12.6% of my library falls into the "green flag" category, which scored as moderate. Not enough to say I am curating for romantic appeal, but it is a noticeable chunk.
 
 #### Top "Girl-Appeal" Artists
-![Top Girl Appeal Artists](images/Top%20Girl%20Appeal%20Artists.png)
+![Top Girl Appeal Artists](Images/Top%20Girl%20Appeal%20Artists.png)
 
 ### Drain / Internet-Core Performativity (12.2% of listening)
 
 JPEGMAFIA alone accounts for most of this at 7,596 plays, making up nearly half the category. Denzel Curry, Freddie Gibbs, Injury Reserve, and Bladee round out the top five. The 12.2% scored as moderate, meaning I am plugged in but it is not my whole identity.
 
 #### Top "Drain / Internet-Core" Artists
-![Top Drain Internet People Artists](images/Top%20Drain%2FInternet%20People%20Artists.png)
+![Top Drain Internet People Artists](Images/Top%20Drain%2FInternet%20People%20Artists.png)
 
 ### Tough Guy Rap Performativity (8.3% of listening)
 
 Travis Scott leads this one at 2,280 plays, followed by Drake and XXXTENTACION. At only 8.3%, this was my lowest performativity signal. The "Masculinity Balance Check" showed a 0.7x ratio of tough-rap to girl-appeal listening, meaning my library actually leans slightly more toward the soft side than the hard side.
 
 #### "Tough Guy Rap" vs "Girl-Appeal" Listening Over Time
-![Tough Guy Rap vs Girl Appeal Comparison](images/Top%20%22Tough%20Guy%22%20Ra...Appeal%20Comparison.png)
+![Tough Guy Rap vs Girl Appeal Comparison](Images/Top%20%22Tough%20Guy%22%20Ra...Appeal%20Comparison.png)
 
 ### Discovery Rate
 
 My rate of finding new artists has been declining. The first half of my listening history averaged a 2.06% discovery rate compared to 1.17% in the second half. This suggests my taste is starting to calcify around familiar favorites rather than continuing to explore.
 
 #### New Artist Discoveries Per Month
-![New Artist Discoveries Per Month](images/New%20Artist%20Discoveries%20Per%20Month.png)
+![New Artist Discoveries Per Month](Images/New%20Artist%20Discoveries%20Per%20Month.png)
 
 ### The Full Tier Breakdown
 
 Every single scrobble categorized into its performativity tier. Critical Canon takes the largest performative slice at 23.9%, followed by Girl-Appeal at 12.6% and Drain/Internet-Core at 12.2%. About 35% of listening falls outside any performative category entirely.
 
 #### Listening Breakdown by Performativity Tier
-![Listening by Performativity Categorized](images/Listening%20by%20Perform...ivity%20Categorized.png)
+![Listening by Performativity Categorized](Images/Listening%20by%20Perform...ivity%20Categorized.png)
 
 ## Listening Habits
 
 #### When I Listen (Day of Week × Hour)
-![Listening Activity Heatmap](images/Listening%20Activity%20Heatmap.png)
+![Listening Activity Heatmap](Images/Listening%20Activity%20Heatmap.png)
 
 #### Monthly Listening Volume Over Time
-![Monthly Listening Volume Over Time](images/Monthly%20Listening%20Volume%20Over%20Time.png)
+![Monthly Listening Volume Over Time](Images/Monthly%20Listening%20Volume%20Over%20Time.png)
 
 ## Final Score
 
 #### Performativity Radar (8 Dimensions)
-![Performativity Profile](images/Performativity%20Profile.png)
+![Performativity Profile](Images/Performativity%20Profile.png)
 
 ```
 ============================================================
