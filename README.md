@@ -76,7 +76,7 @@ My rate of finding new artists has been declining. The first half of my listenin
 Every single scrobble categorized into its performativity tier. Critical Canon takes the largest performative slice at 23.9%, followed by Girl-Appeal at 12.6% and Drain/Internet-Core at 12.2%. About 35% of listening falls outside any performative category entirely.
 
 #### Listening Breakdown by Performativity Tier
-![Listening by Performativity Categorized](Images/Listening%20by%20Perform...ivity%20Categorized.png)
+![Listening by Performativity Categorized](Images/Listening%20by%20Performativity%20Categorized.png)
 
 ## Listening Habits
 
