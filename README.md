@@ -4,11 +4,15 @@
 
 ## Introduction
 
-In online music communities, "performative listening" is the idea that people curate their music taste for social validation rather than genuine enjoyment. I got curious about my own habits, so I exported 4.5 years of my Last.fm scrobble history and built a multi-factor scoring system to quantify how "performative" my listening actually is.
+In online music communities, "performative listening" is the idea that people curate their music taste for social validation rather than genuine enjoyment. I got curious about my own habits, so I decided to put my listening data under the microscope and see what the numbers actually say.
 
-The concept came from Reddit discussions about what makes a listener "performative." People pointed to things like only playing critically acclaimed artists for credibility, binging whoever is trending and then dropping them, building a "green flag" playlist to seem sensitive to girls, making Bladee your entire personality, or only listening to hard rap to look tough. I figured all of this could be measured with data, so I did.
+I started by exporting my full Last.fm scrobble history as a CSV file, which gave me 152,000+ rows of timestamped listening data going back to August 2021. From there I cleaned the data in Python, handling missing timestamps and album names, then engineered time-based features like year, month, hour, and day of week to enable temporal analysis.
 
-**The verdict: 46.8 / 100 — Mostly Authentic.** I engage deeply and explore beyond the canon, though there are some performative patterns in there.
+The core challenge was figuring out how to actually define and measure "performativity" with data. I went back to the Reddit discussions that inspired the idea and identified distinct archetypes of performative listening: the critic-bro who only plays acclaimed artists for credibility, the guy curating a "green flag" playlist for girls, the terminally online Drain Gang listener building an identity around internet music, and the tough-guy who exclusively plays hard rap to project masculinity. I manually built artist categorization lists for each archetype and then wrote scoring functions that measure things like canon overlap percentage, listening depth ratios (unique tracks vs. total plays per artist), trend chasing patterns (how spikey vs. sustained listening is over time), and discovery rate trends.
+
+Each dimension gets scored 0 to 100 and then feeds into a weighted composite score. I also built a track-level performativity metric so I could identify which specific songs in my library are the most and least "performative." The whole analysis runs in a single Jupyter Notebook with 15+ visualizations including radar charts, heatmaps, scatter plots, and time series breakdowns.
+
+The verdict: **46.8 / 100** — Mostly Authentic. I engage deeply and explore beyond the canon, though there are some performative patterns in there.
 
 ## The Dataset
 
