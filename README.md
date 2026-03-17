@@ -20,7 +20,7 @@ This project uses **151,811 personal Last.fm scrobbles** from **August 2021 to M
 
 ## Who Do I Actually Listen To?
 
-Before getting into the performativity analysis, here is a look at the raw listening data. JPEGMAFIA dominates with 7,596 plays, followed by Kanye West at 7,061 and Kendrick Lamar at 3,940. The top 5 artists alone make up 16.9% of all listening.
+Before getting into the performativity analysis, here is a look at the raw listening data. JPEGMAFIA dominates with 7,596 plays, followed by Kanye West at 7,061 and Kendrick Lamar at 3,716. The top 5 artists alone make up 16.9% of all listening.
 
 #### Top 20 Most Played Artists
 ![Top 20 Most Played Artists](Images/Top%2020%20Most%20Played%20Artists.png)
